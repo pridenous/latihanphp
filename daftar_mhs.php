@@ -14,6 +14,7 @@
     <table border="1">
         <tr>
             <th>No</th>
+            <th>NIM</th>
             <th>Name</th>
             <th>Jenis Kelamin</th>
             <th>Prodi</th>
